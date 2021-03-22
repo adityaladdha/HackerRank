@@ -25,9 +25,9 @@ int main()
             case 9: printf("nine\n");break;
             default: 
                       if(i%2)
-                             printf("\nodd");
+                             printf("odd\n");
                       else 
-                             printf("even");
+                             printf("even\n");
                       
                       
         }
